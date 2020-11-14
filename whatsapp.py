@@ -1,5 +1,5 @@
 from twilio.rest import Client
-
+#Ok, boomer
 account_sid = 'ACe26695c8cb5d69aa09807c25c5701afe'
 auth_token = '8f199b0e0d9d788199096757c6f7e26f'
 client = Client(account_sid, auth_token)
